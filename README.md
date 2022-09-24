@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharrej
 - 👀 I’m interested in python programming.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on developing program using pyrhon.
+- 💞️ I’m looking to collaborate on developing program using python.
 - 📫 How to reach me, this is my email jerrah883300@gmail.com.
 
 <!---
